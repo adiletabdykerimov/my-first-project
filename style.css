@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+
+.cartochka{
+    width: 300px;
+    height: 500px;
+    border: 3px solid brown;
+    background-image: url(https://media4.giphy.com/media/4oMoIbIQrvCjm/200w.gif?cid=6c09b952960fdu4vtfd6tdu3nu5v57vbtksjuf00ad0nhbtx&ep=v1_gifs_search&rid=200w.gif&ct=g);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.text{
+    text-align: center;
+}
+
+.text{
+    width: auto;
+    height: 1px solid;
+    text-align: center;
+    color: blue;
+}
